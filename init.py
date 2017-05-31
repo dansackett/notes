@@ -16,6 +16,7 @@ HIERARCHY = {
         'relationships',
     ],
     'personal': [
+        'books',
         'todo',
         'ideas',
         'goals',
